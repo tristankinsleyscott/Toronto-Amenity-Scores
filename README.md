@@ -42,3 +42,7 @@ The downtown/CBD, due to population/commercial density,
 Around Toronto's two main subway lines.
 
 Outside of these two areas, Toronto appears to be a city based upon sprawl, and therefore car-based. Bus lines are quite significant in numbers however, allowing for some level of expediated connection in the city.
+
+## Example Map
+
+Visit the example density map at https://tristankinsleyscott.github.io/Toronto-Amenity-Scores/ to see the density of schools, police stations, and health clinics in Toronto.
