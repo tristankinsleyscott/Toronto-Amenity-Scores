@@ -38,10 +38,9 @@ Utilize the main function of this script. Only your nested dictionary needs to b
 
 One will generally see a higher density of selected tags in:
 
-The downtown/CBD, due to population/commercial density,
-Around Toronto's two main subway lines.
+-The downtown/CBD, due to population/commercial density and around Toronto's two main subway lines.
 
-Outside of these two areas, Toronto appears to be a city based upon sprawl, and therefore car-based. Bus lines are quite significant in numbers however, allowing for some level of expediated connection in the city.
+Outside of Old Toronto, the city appears to be based around single-unit housing and sees a stronger emphasis on car-based transportation. Bus lines are quite significant in numbers however, allowing for some level of expediated connection among the suburbs.
 
 ## Example Map
 
